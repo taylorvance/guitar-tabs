@@ -1,0 +1,39 @@
+"[song title]"
+by Taylor Vance
+
+
+------
+CHORDS
+------
+-- [section name]
+A B# / C Dm E / Fb G
+
+
+---
+TAB
+---
+
+-- [section name] ([key])
+    [chord row]
+e|-----------|-----------|
+B|-----------|-----------|
+G|-----------|-----------|
+D|-----------|-----------|
+A|-----------|-----------|
+E|-----------|-----------|
+
+
+----------------------
+ROMAN NUMERAL NOTATION
+----------------------
+-- [section name]
+I IIm / bIII IV / V
+
+
+------
+LYRICS
+------
+
+-- [section name]
+
+[lyrics]
